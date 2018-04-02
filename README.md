@@ -17,3 +17,11 @@ The dataset includes data gathered from videos on YouTube that are contained wit
 
 There are two kinds of data files, one includes comments and one includes video statistics. They are linked by the unique video_id field.
 
+# Data Source
+The data source contains two kinds of data files, one includes comments and the other includes video statistics. They are linked by the unique video_id field. It has category classification in .json and comments and videos list in .csv file formats.
+The size of the data source is 148MB and it contains structured data.
+
+# Data Source Link
+https://www.kaggle.com/tripatsu/youtube-trending-videos-data-analysis/notebook
+
+# Big Data Qualifications
