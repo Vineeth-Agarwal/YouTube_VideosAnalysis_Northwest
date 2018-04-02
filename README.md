@@ -46,3 +46,18 @@ For each category id, find the number of videos uploaded everyday to determine t
 For each video, find the number of views and likes it gets to determine the likeliness of a video by taking the ratio of views to likes. (Srikar Karthik)
 
 For each video, find the sentiment of people for a video based on the emotions used in comments. The goal is to determine if video has positive, negative or neutral comments. (Durga Charan)
+
+# Big Data Solutions
+# Mapper input: 
+jt2OHQh0HoQ,"To be there with a samsung phone\n😂😂😂",1,0
+# Mapper Output/Reducer input
+jt2OHQh0HoQ, 123,34
+
+# Reducer output:  
+jt2OHQh0HoQ 31%
+
+# Language:  
+Python 
+
+# chart:
+Bar charts and scattered plots.
