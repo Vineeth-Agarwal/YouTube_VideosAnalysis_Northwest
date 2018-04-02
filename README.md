@@ -37,3 +37,12 @@ There is no way to know if the data about comments or likes is authenticate beca
 
 # Value:
 We can work on category based on tags and find the popular channel and trending topics in youtube. We have data for Great Britan and United States thus, we can find the sentiment analysis in a variety of forms, categorising YouTube videos based on their comments and statistics.
+
+# Big Data Questions
+For each cahnnel id tagged with Android, find number of views each video gets to determine the top 5 trending channels in android. (Vineeth)
+
+For each category id, find the number of videos uploaded everyday to determine the tredning category. (Ashok)
+
+For each video, find the number of views and likes it gets to determine the likeliness of a video by taking the ratio of views to likes. (Srikar Karthik)
+
+For each video, find the sentiment of people for a video based on the emotions used in comments. The goal is to determine if video has positive, negative or neutral comments. (Durga Charan)
