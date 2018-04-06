@@ -41,32 +41,35 @@ We can work on category based on tags and find the popular channel and trending 
 ## Big Data Questions
 1) For each category id, find the number of videos uploaded everyday to determine the tredning category. (Ashok)
 
-2) For each video, find the number of views and likes it gets to determine the likeliness of a video by taking the ratio of views to likes. (Srikar Karthik)
+2) For each video, find the number of likes and views it gets to determine the likeliness of a video by taking the ratio of views to likes. Goal is to find relation between number of views and likes(Srikar Karthik).
 
-3) For each video, find the sentiment of people for a video based on the emotions used in comments. The goal is to determine if video has positive, negative or neutral comments. (Durga Charan)
+3) For each video, find the sentiment of people for a video based on the emotions used in comments. The goal is to determine top 10 positive, negative or neutral commented videos. (Durga Charan)
 
 4) For each channel-id tagged with Android, find number of views each video gets to determine the top 5 trending channels in android. (Vineeth)
 
 ## Big Data Solutions
 1)
-Mapper input: jt2OHQh0HoQ,"To be there with a samsung phone\n😂😂😂",1,0  
-Mapper Output/Reducer input: jt2OHQh0HoQ, 123,34  
-Reducer output: jt2OHQh0HoQ 31%  
+Mapper input: EVp4-qjWVJE,	Chargers vs. Broncos, | NFL, Week 1 Game Highlights	NFL	17,	NFL|Football|offense|defense|afc|nfc|American, 743947,	6126,	352,	2438.	https://i.ytimg.com/vi/EVp4-qjWVJE/default.jpg,	13.09
+Mapper Output/Reducer input: Entertainment, 09/13/2018
+Reducer output: Entertainment 38 09/13/2018
 
 2)
-Mapper input: jt2OHQh0HoQ,"To be there with a samsung phone\n😂😂😂",1,0  
-Mapper Output/Reducer input: jt2OHQh0HoQ, 123,34  
-Reducer output: jt2OHQh0HoQ 31%  
+Mapper input: QBGaO89cBMI	Radiohead - Lift,	Radiohead,	10,	radiohead|lift|ok computer|oknotok	752844	42290	359	3250	https://i.ytimg.com/vi/QBGaO89cBMI/default.jpg	13.09
+Mapper Output/Reducer input: XpVt6Z1Gjjo	46245 21122
+Reducer output: jt2OHQh0HoQ America's Got Talent, 50%
 
 3)
-Mapper input: jt2OHQh0HoQ,"To be there with a samsung phone\n😂😂😂",1,0  
-Mapper Output/Reducer input: jt2OHQh0HoQ, 123,34  
-Reducer output: jt2OHQh0HoQ 31%  
+Mapper input: 
+1)XpVt6Z1Gjjo	#1 trending!!!!!!!!!	3	0 
+2)QBGaO89cBMI	Radiohead - Lift	Radiohead	10	radiohead|lift|ok computer|oknotok	752844	42290	359	3250	https://i.ytimg.com/vi/QBGaO89cBMI/default.jpg	13.09
+Mapper Output/Reducer input: XpVt6Z1Gjjo,	1 on trending good job
+Reducer output: jt2OHQh0HoQ ATTACKED BY A POLICE DOG!!, Negative
+
 
 4)
-Mapper input: jt2OHQh0HoQ,"To be there with a samsung phone\n😂😂😂",1,0  
-Mapper Output/Reducer input: jt2OHQh0HoQ, 123,34  
-Reducer output: jt2OHQh0HoQ 31%  
+Mapper input: EVp4-qjWVJE,	Chargers vs. Broncos, | NFL, Week 1 Game Highlights	NFL	17,	NFL|Football|offense|defense|afc|nfc|American, 743947,	6126,	352,	2438.	https://i.ytimg.com/vi/EVp4-qjWVJE/default.jpg,	13.09
+Mapper Output/Reducer input:Chargers vs. Broncos, NFL|Football|offense|defense|afc|nfc|American, 473691
+Reducer output: Chargers vs. Broncos
 
 
 ## Language:  
