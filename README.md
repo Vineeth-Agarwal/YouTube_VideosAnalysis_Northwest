@@ -20,7 +20,7 @@ The data source contains two kinds of data files, one includes comments and the 
 The size of the data source is 148MB and it contains structured data.
 
 ## Data Source Link
-https://www.kaggle.com/tripatsu/youtube-trending-videos-data-analysis/notebook
+https://www.kaggle.com/datasnaek/youtube
 
 ## Big Data Qualifications
 ### Volume : 
