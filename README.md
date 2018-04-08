@@ -45,7 +45,7 @@ We can work on category based on tags and find the popular channel and trending 
 
 3) For each video, find the sentiment of people for a video based on the emotions used in comments. The goal is to determine top 10 positive, negative or neutral commented videos. (Durga Charan)
 
-4) For each channel-id tagged with Android, find number of views each video gets to determine the top 5 trending channels in android. (Vineeth)
+4) For each channel-id tagged with Android, find number of views each video gets, to determine the top 5 trending channels in android. (Vineeth)
 
 ## Big Data Solutions
 1)
