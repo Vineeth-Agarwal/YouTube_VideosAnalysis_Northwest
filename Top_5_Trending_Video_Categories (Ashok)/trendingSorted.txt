@@ -1,0 +1,1508 @@
+veryDay	7
+iFixit VtOfTheWeek
+iDB	2
+hackerspaceshop	1
+explorationfilms	2
+aao331	1
+Windows Developer	3
+William Osman	8
+What's Inside?	6
+WIRED	8
+Vox	1
+UrAvgConsumer	15
+University of Florida - Department of Physics	3
+Unbox Therapy	20
+Tom’s Guide	3
+TheBackyardScientist	5
+The Verge	17
+The New York Times	3
+Tested	18
+TechCrunch	4
+Tech Insider	21
+TUMuenchen1	4
+Steve Mould	4
+Statoil	3
+StarTalk Radio	3
+SpaceX	16
+9	weezer
+9	weezer
+9	Wendover Productions
+9	Wendover Productions
+9	WalkTheMoonVEVO
+9	WalkTheMoonVEVO
+9	Trailers Promos Teasers
+9	Trailers Promos Teasers
+9	TierZoo
+9	TierZoo
+9	The Voice
+9	The Voice
+9	The Rock
+9	The Rock
+9	TP Clips 8
+9	St. Vincent
+9	Simon and Martina
+9	Rooster Teeth
+9	R5VEVO
+9	PsychoSoprano
+9	Philip DeFranco
+9	Patricia Bright
+9	Nyma Tang
+9	Nerdist
+9	NBA
+9	Mayim Bialik
+9	KygoOfficialVEVO
+9	Kurt Hugo Schneider
+9	Kelly Clarkson
+9	Jordan Hanz
+9	Hulu
+9	GwenStefaniVEVO
+9	Greg and Mitch
+9	Good Morning America
+9	GoPro
+9	Dude Perfect
+9	Dolan Twins
+9	DepecheModeVEVO
+9	Chris Reinacher
+9	CNNMoney
+9	CBC News
+9	BBC Earth
+9	AviciiOfficialVEVO
+9	Amazon Studios
+9	AlexAionoVEVO
+9	ANDREW HUANG
+8	kimbramusic
+8	kimbramusic
+8	ibighit
+8	ibighit
+8	William Osman
+8	William Osman
+8	The Food Ranger
+8	Teen Vogue
+8	Tati
+8	Super Deluxe
+8	Shay Mitchell
+8	ShaniaTwainVEVO
+8	RM Videos
+8	PatrickStarrr
+8	MorrisseyOnVEVO
+8	Macklemore LLC
+8	Los Angeles Times
+8	LecraeVEVO
+8	LIVEKellyandRyan
+8	Katy Perry
+8	Jaiden Animations
+8	FreeDawkins
+8	E! News
+8	CineFix
+8	CGTN
+8	BuzzFeed Nifty
+8	Brothers Green Eats
+8	BETNetworks
+8	BBC Radio 1
+7	shakiraVEVO
+7	shakiraVEVO
+7	markit aneight
+7	markit aneight
+7	johnlegendVEVO
+7	johnlegendVEVO
+7	jeffreestar
+7	jeffreestar
+7	jbalvinVEVO
+7	jbalvinVEVO
+7	YBF Chic
+7	YBF Chic
+7	Ximo Pierto
+7	Ximo Pierto
+7	Will & Grace
+7	Will & Grace
+7	Variety
+7	Variety
+7	VLOGTOWSKI
+7	VLOGTOWSKI
+7	Ultra Music
+7	Ultra Music
+7	Tom Daley
+7	Tom Daley
+7	Tiësto
+7	Tiësto
+7	This Morning
+7	This Morning
+7	The Late Late Show with James Corden
+7	SoulPancake
+7	SmarterEveryDay
+7	Shameless Maya
+7	Nintendo
+7	Niks Ļeoņenko
+7	NBC Sports
+7	Matthew Roberts
+7	Man About Cake
+7	LustreLux
+7	Linus Tech Tips
+7	La Guardia Cross
+7	Kevin Durant
+7	Joe Goes
+7	Jan N
+7	HaimVEVO
+7	Genius
+7	Freestyle Digital Media
+7	Fleur DeForce
+7	FOX
+7	E! Live from the Red Carpet
+7	Cracken News
+7	Complex
+7	CGP Grey
+7	Bebe Rexha
+7	Associated Press
+7	Amy Macedo
+7	Alexis Ohanian
+7	Alesso
+7	Alec Benjamin
+7	ABC Television Network
+6	thebrainscoop
+6	thebrainscoop
+6	michaeljacksonVEVO
+6	michaeljacksonVEVO
+6	marshmello
+6	marshmello
+6	itsAlexClark
+6	itsAlexClark
+6	googledoodles
+6	googledoodles
+6	emmymadeinjapan
+6	emmymadeinjapan
+6	cutepolish
+6	cutepolish
+6	bill wurtz
+6	bill wurtz
+6	austinmcconnell
+6	austinmcconnell
+6	amc
+6	amc
+6	Wong Fu Productions
+6	Wong Fu Productions
+6	What's Inside?
+6	What's Inside?
+6	VICE News
+6	VICE News
+6	USAFAOfficial
+6	USAFAOfficial
+6	U2VEVO
+6	U2VEVO
+6	Tony's - 24/7 Eyes
+6	Tony's - 24/7 Eyes
+6	TimandFaithVEVO
+6	TimandFaithVEVO
+6	The Telegraph
+6	The Telegraph
+6	The Royal Family Channel
+6	The Royal Family Channel
+6	The Mom's View
+6	The Mom's View
+6	The Doctors
+6	The Daily Show with Trevor Noah
+6	The CW Television Network
+6	Team Edge
+6	TV Guide
+6	Snapchat
+6	Peter McKinnon
+6	Oculus
+6	OCDetailing
+6	Norm Krumpe
+6	Nicole Guerriero
+6	Niana Guerrero
+6	NASA Johnson
+6	Matador Records
+6	Made by Google
+6	MTV
+6	MGKVEVO
+6	Lorraine
+6	LockheedMartinVideos
+6	Liza Koshy Too
+6	Lindsey Stirling
+6	Lin-Manuel Miranda - Topic
+6	Legendary
+6	LanaDelReyVEVO
+6	Kris Wu
+6	KodalineVEVO
+6	Kid Rock
+6	KatyPerryVEVO
+6	Just Between Us
+6	Joshua De Laurentiis
+6	Hevesh5
+6	Grand Ole Opry
+6	Google
+6	Good Morning Britain
+6	Giaco Whatever
+6	Funny Local News
+6	Fueled By Ramen
+6	FallOutBoyVEVO
+6	FBE
+6	Engineering Explained
+6	Engadget
+6	Ed Sheeran
+6	Echosmith
+6	Disney•Pixar
+6	DanielleBradberyVEVO
+6	Comedy Central
+6	Cody'sLab
+6	ClevverTV
+6	Chris Goossens
+6	Charlie Rose
+6	CelebNews17
+6	Casually Explained
+6	CBS North Carolina
+6	Brian Tyler Cohen
+6	Breakfast Club Power 105.1 FM
+6	Bravo
+6	Bon Appétit
+6	Bhad Bhabie
+6	BeckVEVO
+6	Bad Lip Reading
+6	BBC Newsnight
+6	Awkward Puppets
+6	Auralnauts
+6	Atlantic Records
+6	Arden Rose
+6	Animal Adventure Park
+6	Andre Black Nerd
+6	Alabama Crimson Tide on AL.com
+6	ABC Action News
+5	tkvids
+5	tkvids
+5	thejasminebrand
+5	thejasminebrand
+5	sWooZie
+5	sWooZie
+5	katilette
+5	katilette
+5	fire3element
+5	fire3element
+5	dodieVEVO
+5	dodieVEVO
+5	boogie2988
+5	boogie2988
+5	Zoella
+5	Zoella
+5	ZEDDVEVO
+5	ZEDDVEVO
+5	Z100 is New York
+5	Z100 is New York
+5	XAmbassadorsVEVO
+5	XAmbassadorsVEVO
+5	Wengie
+5	Wengie
+5	WeAreLostKingsVEVO
+5	WeAreLostKingsVEVO
+5	WatchMojo.com
+5	WatchMojo.com
+5	WalrusRider
+5	WalrusRider
+5	WFAA
+5	WFAA
+5	Volpe Music
+5	Volpe Music
+5	VariantComics
+5	VariantComics
+5	ToveLoVEVO
+5	ToveLoVEVO
+5	ToniBraxtonVEVO
+5	ToniBraxtonVEVO
+5	TomWalkerVEVO
+5	TomWalkerVEVO
+5	Tinder
+5	Tinder
+5	Thomas Sanders
+5	Thomas Sanders
+5	Thomas Rhett
+5	Thomas Rhett
+5	TheScoreVEVO
+5	TheScoreVEVO
+5	TheBackyardScientist
+5	TheBackyardScientist
+5	TheAmazingTen
+5	TheAmazingTen
+5	The xx
+5	The xx
+5	The X-Files
+5	The X-Files
+5	The Slow Mo Guys
+5	The Slow Mo Guys
+5	The Mighty EROCK
+5	The Mighty EROCK
+5	The Global Goals
+5	TechRax
+5	TamarbraxtonVEVO
+5	TV Shows
+5	TNT
+5	TMZSports
+5	SumerianRecords
+5	Subaru
+5	Streamy Awards
+5	Stone Sour
+5	Steve Kovach
+5	Star Trek
+5	SonyPicturesClassics
+5	Siobhan O'Brien
+5	SiaVEVO
+5	Shameless
+5	Seeker
+5	Scotty Cranmer
+5	Sam O'Nella Vlog
+5	SYFY
+5	SPORTSNET
+5	Roll Call
+5	ReasonTV
+5	Random Ryan
+5	Radiohead
+5	RachelPlattenVEVO
+5	RTV6 The Indy Channel
+5	REACT
+5	Quartz
+5	Proximity
+5	PostmodernJukebox
+5	Pop Blast
+5	Pittsburgh Dad
+5	PeopleTV
+5	People are Awesome
+5	Paramore
+5	Open Road Films
+5	ONE Media
+5	Nukazooka
+5	Norm Macdonald
+5	NoahCyrusVEVO
+5	Nissan USA
+5	Nature on PBS
+5	National Science Foundation
+5	NFL Interviews
+5	NASA Jet Propulsion Laboratory
+5	Mrwhosetheboss
+5	MoorInfo
+5	Miley's Darwin
+5	Mickey Mouse
+5	Michelle Khare
+5	Matthias Wandel
+5	Mark Rober
+5	MarenMorris
+5	Lukas Graham
+5	LouisTomlinsonVEVO
+5	Lessons from the Screenplay
+5	LANYVEVO
+5	Kim Roberts
+5	Kevin Parry
+5	Kayley Melissa
+5	KTNV Channel 13 Las Vegas
+5	JessieWareVEVO
+5	JessiSmiles
+5	JennThe Mermaid
+5	Jason Derulo
+5	Jamie Baker
+5	Jack Black
+5	JK Brickworks
+5	In Real Life
+5	IRONMANTriathlon
+5	IIHS
+5	IGN
+5	Hunter Hayes
+5	Hudson Moore
+5	How Ridiculous
+5	Grandpa Kitchen
+5	Gordon Ramsay
+5	Gallant
+5	François Gissy
+5	Framestore
+5	Focus Features
+5	FOX 11 Los Angeles
+5	Exclusive World Premiere
+5	Enter Shikari
+5	ElectroBOOM
+5	EDEN
+5	Douglas Thron
+5	Donald Trump
+5	Domo and Crissy
+5	DemiLovatoVEVO
+5	Davide Quaranta
+5	David Guetta
+5	Dan Helmer for Congress
+5	Daisy Marquez
+5	DNAinfo New York
+5	DKIRK
+5	D3sports.com
+5	Cub Studio
+5	CrowderVEVO
+5	Crate and Barrel
+5	Courageous Conservatives PAC
+5	Columbia Sportswear
+5	Cole and Marmalade
+5	Clash of Clans
+5	ChrisMD
+5	ChrisFix
+5	Chris and Jack
+5	Chris Cohoon
+5	CartoonHangover
+5	CarlyRaeJepsenVEVO
+5	CarlosVivesVEVO
+5	Cardi B
+5	Camila Cabello
+5	CGTN America
+5	CBS Sunday Morning
+5	CBS New York
+5	CBS
+5	C-SPAN
+5	BØRNSmusicVEVO
+5	BuzzFeed News
+5	Bruno Mars
+5	Brett Eldredge
+5	BonusXP
+5	Blake Shelton
+5	Bart & Geo
+5	BLOODHOUND SSC - 1,000 mph car
+5	AvE
+5	Ashley Tisdale
+5	Anna Akana
+5	Alan Walker
+5	ASMR Darling
+40	Vox
+40	Vox
+40	Jimmy Kimmel Live
+4	Мегаполис
+4	Мегаполис
+4	utsportstv
+4	utsportstv
+4	nknewsorg
+4	nknewsorg
+4	mugumogu
+4	mugumogu
+4	leighannsays
+4	leighannsays
+4	dejloafVEVO
+4	dejloafVEVO
+4	clothesencounters
+4	clothesencounters
+4	banksVEVO
+4	banksVEVO
+4	adamisTV
+4	adamisTV
+4	Yelle
+4	Yelle
+4	Xov Xwm_Lom Zem
+4	Xov Xwm_Lom Zem
+4	Walmart
+4	Walmart
+4	WSUCougarAthletics
+4	WSUCougarAthletics
+4	WATSKY!
+4	WATSKY!
+4	Vsauce3
+4	Vsauce3
+4	ViralVideoUK
+4	ViralVideoUK
+4	Veritasium
+4	Veritasium
+4	VHS Video vault
+4	VHS Video vault
+4	VELCRO® Brand
+4	VELCRO® Brand
+4	Universal Pictures UK
+4	Universal Pictures UK
+4	USA TODAY Sports
+4	USA TODAY Sports
+4	ULOOK2
+4	ULOOK2
+4	U.S. Soccer
+4	U.S. Soccer
+4	Toyo Tire USA Corp
+4	Toyo Tire USA Corp
+4	Tina Yong
+4	Tina Yong
+4	This Is Us
+4	This Is Us
+4	TheMaineOfficialVEVO
+4	TheMaineOfficialVEVO
+4	The Talk
+4	The Talk
+4	The Last Leg
+4	The Jonathan Ross Show
+4	The Herd with Colin Cowherd
+4	The Game Theorists
+4	The Gabbie Vlogs
+4	The Chi
+4	The Academic
+4	Tess Christine
+4	TechCrunch
+4	TUMuenchen1
+4	TLSTV
+4	Syracuse Orange sports on syracuse.com
+4	Storyful News
+4	Stop Bad Bicyclists In Wisconsin
+4	Steve Mould
+4	Sprinkleofglitter
+4	South Park Studios
+4	Skip and Shannon: UNDISPUTED
+4	Simone Giertz
+4	Shandong Iraeta
+4	Sara Dietschy
+4	SMTOWN
+4	SB Nation
+4	Rock & Roll Hall of Fame
+4	Rob Czar
+4	Ranz Kyle
+4	Rachel and Jun
+4	R3HAB
+4	Primitive Technology
+4	PrettyMuchVEVO
+4	PolymomoTea
+4	Pitch Perfect
+4	PhoneBuff
+4	Petit Biscuit
+4	Oli White
+4	Nike
+4	NightHawkInLight
+4	NickJonasVEVO
+4	NURK FPV
+4	NTK Network
+4	NPR Music
+4	NN
+4	Movieclips Trailers
+4	Molly Burke
+4	Mike Gardner
+4	Merrell Twins Live
+4	MeganBatoon
+4	MegaBots Inc
+4	Media Galactic
+4	MasterClass
+4	Mashd N Kutcher
+4	Manny Mua
+4	Malec
+4	MaggieRogersVEVO
+4	MGMTVEVO
+4	Little Dragon
+4	Lisa Eldridge
+4	LeonardCohenVEVO
+4	LegallyArmedAmerica
+4	Lauv
+4	Lauren Elizabeth
+4	Lady Gaga
+4	La Blogothèque
+4	LTavvy
+4	LP
+4	LADbible
+4	KrewellaMusicVEVO
+4	Korea Beatbox TV
+4	Koenigsegg
+4	KnowledgeHub
+4	Kill'em
+4	Kiiara
+4	Key West Kayak Fishing
+4	KREM2
+4	KHOU 11
+4	JustineReed97
+4	Julien Solomita
+4	Jukin Media
+4	Jonathan Young
+4	John Campea
+4	Joanna Hausmann
+4	Jhené Aiko
+4	Jesse
+4	Jamie Stangroom
+4	Jamie Genevieve
+4	JamesTWVEVO
+4	James Blunt
+4	JakeBuggVEVO
+4	Jacob Sartorius
+4	Jack and Dean
+4	JOLLY
+4	It's Okay To Be Smart
+4	I Covet Thee
+4	Huckabee
+4	HomeMadeModern
+4	Hollyn
+4	HaileeSteinfeldVEVO
+4	HBOBoxing
+4	Gigi Gorgeous
+4	Gentle Whispering ASMR
+4	GRAN TURISMO TV
+4	GOTDAMN ZO
+4	Frane Rogosic
+4	Ford Motor Company
+4	Flossy Carter
+4	FirstAidKitVEVO
+4	FOXSportsMidwest
+4	FLETCHERVEVO
+4	Elvis Duran Show
+4	Eli Lieb
+4	Elevation Worship
+4	Dulce Candy
+4	Don Giller
+4	Domics
+4	Denyer Pro Photography & Retouching
+4	Demi Lovato News
+4	DavidParody
+4	David Carter
+4	Daniel Howell
+4	Dan Nystedt
+4	Dainá
+4	DJSnakeVEVO
+4	DALLMYD
+4	Colleen Vlogs
+4	ColdFusion
+4	Claire Marshall
+4	Citron Research
+4	Christy Keane
+4	Carolina Panthers
+4	COVERGIRL
+4	CBS Baltimore
+4	Business Casual
+4	Braun
+4	Borussia Dortmund
+4	Björk
+4	BishopBriggsVEVO
+4	BillieEilishVEVO
+4	Bethany Mota
+4	Beats 1 Radio
+4	BeaMillerVEVO
+4	Be Amazed
+4	BRADPAISLEYVEVO
+4	Audi USA
+4	Ariel Bissett
+4	Ari Fitz
+4	Annapurna Channel
+4	AndreasChoice
+4	AlyAndAJVEVO
+4	Access Hollywood
+4	AMAZING HOODFACTSUNCUT
+4	ABN AMRO
+4	69 detik
+4	2CELLOS
+4	1791L
+39	First We Feast
+38	vlogbrothers
+38	vlogbrothers
+38	jacksfilms
+38	jacksfilms
+38	TheEllenShow
+38	TheEllenShow
+38	The Tonight Show Starring Jimmy Fallon
+38	The Tonight Show Starring Jimmy Fallon
+38	NFL
+37	The Late Late Show with James Corden
+37	Netflix
+37	CollegeHumor
+36	Refinery29
+34	Safiya Nygaard
+34	Marques Brownlee
+32	Rosanna Pansino
+32	Late Night with Seth Meyers
+32	Good Mythical Morning
+32	Amber Scholl
+31	Simply Nailogical
+31	ESPN
+30	Watch What Happens Live with Andy Cohen
+30	Watch What Happens Live with Andy Cohen
+30	The Late Show with Stephen Colbert
+30	The Late Show with Stephen Colbert
+30	Meet Arnold
+3	sonjdradeluxe
+3	sonjdradeluxe
+3	news usa
+3	news usa
+3	montejenningsjr
+3	montejenningsjr
+3	kirstinVEVO
+3	kirstinVEVO
+3	kawaiisweetworld
+3	kawaiisweetworld
+3	kaptainkristian
+3	kaptainkristian
+3	jypentertainment
+3	jypentertainment
+3	georgemichaelVEVO
+3	georgemichaelVEVO
+3	euronews (in English)
+3	euronews (in English)
+3	dsf2006
+3	dsf2006
+3	barnabydixon
+3	barnabydixon
+3	ZwanMonster
+3	ZwanMonster
+3	Xposure 365 TV
+3	Xposure 365 TV
+3	World TV
+3	World TV
+3	WolfAliceVEVO
+3	WolfAliceVEVO
+3	Windows Developer
+3	Windows Developer
+3	Why Don't We
+3	Why Don't We
+3	Washington Free Beacon
+3	Washington Free Beacon
+3	WPTV News | West Palm Beach Florida
+3	WPTV News | West Palm Beach Florida
+3	WDW News Today
+3	WDW News Today
+3	VolkswagenDanmark
+3	VolkswagenDanmark
+3	Video Library
+3	Video Library
+3	University of Florida - Department of Physics
+3	University of Florida - Department of Physics
+3	United Nations
+3	United Nations
+3	Tyler H
+3	Tyler H
+3	Triz Cru TV
+3	Triz Cru TV
+3	Tom’s Guide
+3	Tom’s Guide
+3	TheReportOfTheWeek
+3	TheRepor3	TheRealFake00
+3	TheRealFake00
+3	The Solomon Society
+3	The Solomon Society
+3	The Ringer
+3	The Ringer
+3	The Real Daytime
+3	The Real Daytime
+3	The Illusion contest
+3	The Bella Twins
+3	The Atlantic
+3	TaylorSwiftVEVO
+3	TOYOTA GAZOO Racing
+3	THE RESISTANCE Mind Tripper
+3	Super Bunnyhop
+3	Storyful Rights Management
+3	Steven Malcolm
+3	Statoil
+3	StarTalk Radio
+3	SquareTrade, Inc.
+3	SlashGear
+3	Skunk Bear
+3	SiriusXM
+3	SarahClose1
+3	Salomondrin
+3	SCOTT LEWITT
+3	Rudimental
+3	Reigarw Comparisons
+3	RWW Blog
+3	PopularVideos
+3	Pocketful of Primary
+3	PhoebeRyanVEVO
+3	PeterSripol
+3	Pero Like
+3	Paramount Network
+3	PBS Eons
+3	Orange & White Report
+3	OlanRogers
+3	Official Les Twins
+3	Odo Puiu Events
+3	Not Dan Harmon
+3	Nominous Animation
+3	Nobel Prize
+3	Nittany Nation
+3	Nini McNean
+3	Nigel John Stanford
+3	Nickelback
+3	National Yo-Yo Contest
+3	National Geographic
+3	NEON
+3	NEEDTOBREATHE
+3	NBA Conference
+3	Motor Trend Channel
+3	Mnet K-POP
+3	Miranda Sings
+3	Mini Marley
+3	Michael Zsohar
+3	Melodica Men
+3	MavinRecords
+3	Manto kay SO Afsanay
+3	LukeBryanVEVO
+3	Louis Rossmann
+3	Lori Light
+3	Liza & Albbie
+3	LewisCapaldiVEVO
+3	Levi's®
+3	KungsVEVO
+3	King Krule
+3	Kerry Wong
+3	Juliana LePine Sculptures- ENGLISH
+3	Josef Prusa
+3	Johns Hopkins All Children's Hospital
+3	John Maclean
+3	Jersy Del Rio
+3	JacobBanksVEVO
+3	Intel
+3	ITSLEONLEONVEVO
+3	IFC Films
+3	Hymes Jeff
+3	Historia Civilis
+3	Hispanglosaxon
+3	HiHo Kids
+3	Happy
+3	HalseyVEVO
+3	GymCastic
+3	GregoryPorterVEVO
+3	Galantis
+3	Gabbie Hanna
+3	Foil Arms and Hog
+3	Flightless
+3	FilmRise Releasing
+3	Fifty Shades
+3	Field of Vision
+3	Fathom Events
+3	Fan Dick
+3	Enter Name Here
+3	Eater
+3	ETC Show
+3	ELLE
+3	EA Star Wars
+3	Doug DeMuro
+3	DetPistonsOfficial
+3	DeathByPixel
+3	David López
+3	David Archuleta
+3	Darren Doucette
+3	Dan Patrick Show
+3	CrashCourse
+3	Cigna
+3	Chris Stuckmann
+3	CatCreature
+3	Carrie Hope Fletcher
+3	California Senate Democrats
+3	COPA90
+3	CMT
+3	CBS Miami
+3	Buttered Side Down
+3	Burstow & Hewett
+3	Brat
+3	Bobby Walia
+3	Bloomberg
+3	BigDawsTv
+3	Betfair
+3	Becky G México
+3	Bad Obsession Motorsport
+3	BURGER KING
+3	BUILD Series
+3	Andro Hack
+3	Alyosha Tanetović
+3	Alvaro Veloz
+3	APaperPlaneADay
+3	AARP
+3	30 Rock Official
+3	#Mind Warehouse
+29	The Infographics Show
+29	SuperCarlinBrothers
+29	SUPERFRUIT
+29	Brave Wilderness
+28	HellthyJunkFood
+28	BuzzFeedVideo
+27	iJustine
+27	iJustine
+27	Team Coco
+27	Rclbeauty101
+27	ABC News
+26	The School of Life
+26	The School of Life
+26	The Dodo
+26	SciShow
+26	Grace Helbig
+26	BuzzFeedBlue
+25	The Scran Line
+25	The Scran Line
+25	Cracked
+24	Saturday Night Live
+24	Madelaine Petsch
+24	Liza Koshy
+24	E! Entertainment
+24	Dancing With The Stars
+23	WWE
+23	WWE
+23	Screen Junkies
+23	LastWeekTonight
+23	BBC News
+22	Warner Bros. Pictures
+22	Warner Bros. Pictures
+22	WIRED
+22	WIRED
+22	Life Noggin
+22	How To Cake It
+22	Guardian Wires
+22	CBS News
+21	Vogue
+21	Vogue
+21	Tech Insider
+21	Nile Wilson
+21	Jackie Aina
+21	CinemaSins
+21	AsapSCIENCE
+20	Wendy Williams
+20	Wendy Williams
+20	Unbox Therapy
+20	Unbox Therapy
+20	SamSmithWorldVEVO
+20	Nerdwriter1
+20	NBA Highlights · YouTube
+20	Mike Boyd
+20	Lele Pons
+20	Jeremy Jahns
+20	Half as Interesting
+20	CNN
+20	Anwar Jibawi
+2	ユカイ工学
+2	ユカイ工学
+2	МИР УДИВЛЯЕТ v2.0
+2	МИР УДИВЛЯЕТ v2.0
+2	Émile Paquette
+2	Émile Paquette
+2	zachwilliamsVEVO
+2	zachwilliamsVEVO
+2	uniservo
+2	uniservo
+2	stitches
+2	stitches
+2	nono du rire nono
+2	nono du rire nono
+2	melanie martinez
+2	melanie martinez
+2	mayratouchofglam
+2	mayratouchofglam
+2	mayhugh1
+2	mayhugh1
+2	max berger
+2	max berger
+2	iskra
+2	iskra
+2	iFixit Video
+2	iFixit Video
+2	iDB
+2	iDB
+2	gusma28
+2	gusma28
+2	explorationfilms
+2	explorationfilms
+2	doddlevloggle
+2	doddlevloggle
+2	bubzbeauty
+2	bubzbeauty
+2	YouTube FanFest
+2	YouTube FanFest
+2	XtremeTeamTV
+2	XtremeTeamTV
+2	Working at Microsoft
+2	Working at Microsoft
+2	Watford Fc
+2	Watford Fc
+2	Warr Dogz
+2	Warr Dogz
+2	WEDR 99 JAMZ
+2	WEDR 99 JAMZ
+2	WBAL-TV 11 Baltimore
+2	WBAL-TV 11 Baltimore
+2	VintageTVCommercials
+2	VintageTVCommercials
+2	Victor Hugo GP
+2	Victor Hugo GP
+2	Vertical Entertainment LA
+2	Vertical Entertainment LA
+2	Vat19
+2	Vat19
+2	UseFul Video
+2	UseFul Video
+2	Under Armour
+2	Under Armour
+2	US Open Tennis Championships
+2	US Open Tennis Championships
+2	UCF Knights
+2	UCF Knights
+2	TimMcGrawVEVO
+2	TimMcGrawVEVO
+2	TimEE
+2	TimEE
+2	Thomas Bikias
+2	Thomas Bikias
+2	TheVampsVEVO
+2	TheVampsVEVO
+2	TheShinsVEVO
+2	TheShinsVEVO
+2	TheHoustonFactor
+2	TheHoustonFactor
+2	The Orville
+2	The Orville
+2	The Liberty Hound
+2	The Liberty Hound
+2	The Guides
+2	The Gregory Brothers
+2	The Film Culture Media
+2	The Economist
+2	The Cincinnati Zoo & Botanical Garden
+2	Texas A&M Athletics
+2	Synthetik Films
+2	Steve Fulop
+2	Spinnin' Records
+2	SoothingSista
+2	Songs With My Daughter
+2	Sand Cat Sahara Team
+2	SanCiscoOfficial
+2	Sam O'Nella Academy
+2	SULPreservation
+2	Roxxsaurus
+2	Robert Jones
+2	Rita Ora
+2	RedBlue Divide
+2	Quintessence Yachts
+2	Public Citizen
+2	ProPublica
+2	Practical Engineering
+2	Polestar
+2	Pokémon GO
+2	Paweł Zadrożniak
+2	PTXofficial
+2	OsbornTramain
+2	Oats Studios
+2	NurdRage
+2	NotimexTV
+2	Nick Ramos
+2	NewsFunnies
+2	New Mexico Lobos
+2	NBTVEVO
+2	NASA Langley Research Center
+2	Ms Deb Deb
+2	Matthijs Vlot
+2	Martin Garrix
+2	Malhar Takle
+2	Mahshid Mazooji
+2	Maharishi University of Management
+2	MILO
+2	Luke Skaff
+2	Lofty Pursuits
+2	Lizzo Music
+2	Life Where I'm From
+2	LiamPayneVEVO
+2	Landsec
+2	LIMO Recording Studio - PD
+2	Kmart
+2	Kirsten Dirksen
+2	Kevin The Tech Ninja
+2	Kevin Novobilsky
+2	Josh Constine
+2	Jody's Corner
+2	JeffHK
+2	Jared's Garage
+2	Jane Smith
+2	JBJmanagement
+2	Ionel Ciobanuc
+2	IdolxVoice
+2	IAmAnneMarie
+2	Henrique B. Freitas
+2	Hennessey Performance
+2	Hayley Kiyoko
+2	HYPEBEAST
+2	HEALYVIDEO
+2	Gun Runnerz
+2	Guinness World Records
+2	Geezus66
+2	GameTrailers
+2	Galen Hooks
+2	Gab707
+2	Futbol La Pasion
+2	Ford Europe
+2	First Baptist Dallas
+2	FJOJR
+2	ExileLord
+2	Emmalyn Estrada
+2	Elizabeth Preza
+2	EUROLEAGUE BASKETBALL
+2	ETA PRIME
+2	DoodleChaos
+2	Donut Media
+2	DarthLucifer08
+2	Dance with Dre
+2	DNN Deplorable News Network
+2	DCCCVideo
+2	CraigDavidVEVO
+2	Couponraja
+2	Cosmic Book News
+2	CorkGaines
+2	ConnorFranta
+2	Cole Truax
+2	Coca-Cola
+2	Chubbyemu
+2	ChangeFor TheBetter2!
+2	Caters Clips
+2	CaptainSparklez
+2	Candace Lowry
+2	CalvinHarrisVEVO
+2	Calvin Klein
+2	Call of Duty
+2	Cal Bears
+2	CNET
+2	CNCOVEVO
+2	CNBC
+2	CAPITAL KINGS
+2	BransonTim83
+2	Brad Hall
+2	Botingol TV
+2	Botingol
+2	Bollinger Motors
+2	Boeing
+2	BobiAndonovVEVO
+2	Bis Kack
+2	Bird Plan
+2	Bailey Bryan
+2	BBC Three
+2	AvrilFalls
+2	Asmodee Digital
+2	Armis
+2	Arcus-3D
+2	AppleInsider
+2	Andreas Spiess
+2	Adeel of Steel
+2	AIRBORNE-FILMS
+2	3Blue1Brown
+2	365DegreeHighlights
+19	Wil Dasovich
+19	Wil Dasovich
+19	WatchCut Video
+19	WatchCut Video
+19	Tom Scott
+19	Tom Scott
+19	TODAY
+19	TED-Ed
+19	PBS NewsHour
+19	Gus Johnson
+19	Glam&Gore
+19	Full Frontal with Samantha Bee
+19	CrazyRussianHacker
+19	Christen Dominique
+19	ChrisYoungVEVO
+19	CaseyNeistat
+19	20th Century Fox
+18	grav3yardgirl
+18	grav3yardgirl
+18	The Film Theorists
+18	Tested
+18	ProZD
+18	Hannah Stocking
+18	FergieVEVO
+18	ExplosmEntertainment
+17	thataylaa
+17	thataylaa
+17	colinfurze
+17	colinfurze
+17	The Verge
+17	The Verge
+17	Simon's Cat
+17	ScreenPrism
+17	Jaclyn Hill
+17	IISuperwomanII
+17	Chloe Morello
+17	Casey Holmes
+17	Austin Evans
+16	The New York Times
+16	The New York Times
+16	The Graham Norton Show
+16	TMZ
+16	SpaceX
+16	James Charles
+16	Inside Edition
+16	Food Wishes
+16	Business Insider
+16	AnthonyPadilla
+16	Amazon Video
+16	Al Jazeera English
+15	truTV
+15	truTV
+15	ViralHog
+15	ViralHog
+15	UrAvgConsumer
+15	UrAvgConsumer
+15	Taylor Swift
+15	Studio C
+15	Smosh
+15	RealLifeLore
+15	RAW
+15	PinkVEVO
+15	MinuteEarth
+15	Mental Floss
+15	MSNBC
+15	LaurDIY
+15	KaneBrownVEVO
+15	Ingrid Nilsen
+15	Entertainment Tonight
+14	Wassabi Productions
+14	Wassabi Productions
+14	ThreadBanger
+14	ThreadBanger
+14	The Gabbie Show
+14	MyHarto
+14	MLB
+14	Kitchen Nightmares
+14	JennaMarbles
+14	GameofThrones
+14	Desi Perkins
+14	DariusRuckerVEVO
+14	Carli Bybel
+14	BuzzFeed Celeb
+14	BBCRadio1VEVO
+13	shane
+13	shane
+13	pixiwoo
+13	pixiwoo
+13	USA TODAY
+13	USA TODAY
+13	Tyler Oakley
+13	Tyler Oakley
+13	The View
+13	The View
+13	TIME
+13	Sony Pictures Entertainment
+13	ScreenJunkies News
+13	SORTEDfood
+13	NiallHoranVEVO
+13	Logan Paul Vlogs
+13	Laura in the Kitchen
+13	Kurzgesagt – In a Nutshell
+13	HOT 97
+13	ColliderVideos
+13	CBS This Morning
+13	America's Got Talent
+12	nigahiga
+12	nigahiga
+12	Vanity Fair
+12	Vanity Fair
+12	TheOdd1sOut
+12	TheOdd1sOut
+12	Tasty
+12	Numberphile
+12	NBC News
+12	Lionsgate Movies
+12	JerryRigEverything
+12	Jenny Nicholson
+12	INSIDER
+12	EverythingApplePro
+12	Big Ten Network
+11	minutephysics
+11	minutephysics
+11	consumer
+11	consumer
+11	Washington Post
+11	Washington Post
+11	The Oregonian
+11	The Oregonian
+11	Strictly Dumpling
+11	Ryan Upchurch
+11	Rudy Mancuso
+11	Reach Records
+11	Peter Hollens
+11	Paramount Pictures
+11	OfficialGucciMane
+11	NikkieTutorials
+11	NFVEVO
+11	Mr. Kate
+11	Matthias
+11	Maroon5VEVO
+11	Looper
+11	Linkin Park
+11	Kylie Cosmetics
+11	Jake Paul
+11	Good Mythical MORE
+11	From Head To Toe
+11	FoxSearchlight
+11	Fox News
+11	Demi Lovato
+11	DaveHax
+11	Courtelizz1
+11	CBS Los Angeles
+11	Boldly
+11	Binging with Babish
+11	Apple
+11	A24
+10	theflippist
+10	theflippist
+10	schmoyoho
+10	schmoyoho
+10	You Suck At Cooking
+10	You Suck At Cooking
+10	Walk off the Earth
+10	Walk off the Earth
+10	UFC ON FOX
+10	UFC ON FOX
+10	UFC - Ultimate Fighting Championship
+10	UFC - Ultimate Fighting Championship
+10	The Key of Awesome
+10	TRL
+10	Star Wars
+10	RomanAtwoodVlogs
+10	Real Engineering
+10	PewDiePie
+10	MyLifeAsEva
+10	Matt Stonie
+10	Madeyewlook
+10	Las Vegas Metropolitan Police
+10	Jonathan Morrison
+10	JessieJVEVO
+10	JeremyCampVEVO
+10	ImagineDragonsVEVO
+10	HBO
+10	Great Big Story
+10	GraceVanderWaalVEVO
+10	CupcakeJemma
+10	Charlie Puth
+10	Channel Awesome
+10	AlishaMarie
+1	Томикс-ТВ online
+1	Томикс-ТВ online
+1	weatherguru76
+1	weatherguru76
+1	ustwo games
+1	ustwo games
+1	the Hacksmith
+1	the Hacksmith
+1	stere0123
+1	stere0123
+1	madison.com
+1	madison.com
+1	james doakes
+1	james doakes
+1	iVod Channel
+1	iVod Channel
+1	iFL TV
+1	iFL TV
+1	hackerspaceshop
+1	hackerspaceshop
+1	falson
+1	falson
+1	devinsupertramp
+1	devinsupertramp
+1	david cartwright
+1	david cartwright
+1	adidas
+1	adidas
+1	aao331
+1	aao331
+1	ZaynVEVO
+1	ZaynVEVO
+1	WuTangClanVEVO
+1	WuTangClanVEVO
+1	WhatsUpMoms
+1	WhatsUpMoms
+1	WKRG
+1	WKRG
+1	Video Detective
+1	Video Detective
+1	Vanderbilt University
+1	Vanderbilt University
+1	Vanderbilt Athletics
+1	Vanderbilt Athletics
+1	US News Channel
+1	US News Channel
+1	TouringPlans
+1	TouringPlans
+1	Timberland
+1	Timberland
+1	Thorn
+1	Thorn
+1	ThomasRhettVEVO
+1	ThomasRhettVEVO
+1	TheSnakeCharmer
+1	TheSnakeCharmer
+1	The Shadowboxers
+1	The Shadowboxers
+1	The Royal Butler
+1	The Royal Butler
+1	Terror Jr
+1	TIFF
+1	Sophia Grace
+1	Shawn Setaro
+1	Shawn Johnson East
+1	Sacramento Kings
+1	Rista Casmiaa
+1	Rifootball
+1	Rasel Homemade creator
+1	Random Stuff
+1	Rad Universe
+1	Photography and Retouching with Denyer.pro
+1	Penny Loggins
+1	PTZtv
+1	Oscar De Gracia Jr.
+1	One America Appeal
+1	No Surrender Productions
+1	NikkiPhillippi
+1	Nick Loper
+1	NSA_Listbot
+1	NOWNESS
+1	NARLtv
+1	My Pale Skin
+1	Moto Geek
+1	Micah Elizabeth Scott
+1	Metro Los Angeles
+1	MLB Channel
+1	MIT OpenCourseWare
+1	M2 TheS
+1	Lynn Bay
+1	Lutz Niggl
+1	Lucas
+1	Kpop Plus01
+1	Kevin Noon
+1	Kat Napiorkowska
+1	Joel Hartley
+1	Jenny Mustard
+1	Jackson Pacheco
+1	How To Cook That
+1	Hot Dad
+1	HassoPlattnerInstitute HCI
+1	Harper's BAZAAR
+1	Hamish & Andy
+1	Hailee Steinfeld
+1	HISTORY
+1	Grist
+1	Grey
+1	Green Day
+1	GoPSUtv
+1	Glyph Jockey
+1	GEazyMusicVEVO
+1	Francis Dominic
+1	Fortune Magazine
+1	FootofaFerret
+1	Football Insider
+1	FightHype.com
+1	FifthHarmonyVEVO
+1	FOX SportsDetroit
+1	Evelyn From The Internets
+1	Eric Blattberg
+1	Ed Gillespie
+1	DoctorOz
+1	Deadline Hollywood
+1	Dawayne Kirkland
+1	DaveEastVEVO
+1	DailyPicksandFlicks
+1	Daily Exclusive
+1	CrazyLaughAction
+1	Conor Maynard
+1	Concert Daily
+1	Complex News
+1	Comicbook.com
+1	Clicker Learning Institute for Cats and Kittens
+1	ChooseSpy
+1	Chance The Rapper
+1	CarlyPearceVEVO
+1	Brainfeedermedia
+1	BonnieMcKeeVEVO
+1	BlackStardust
+1	BadmintonWorld.tv
+1	BMW
+1	AvengedSevenfoldVEVO
+1	Andri Ragettli
+1	Ami Yamato
+1	American Revolution
+1	Amazing Timelapse
+1	Al Jazeera Arabic قناة الجزيرة
+1	AirmanMagazineOnline
+1	Adam Sifounakis
+1	Aaron Esser
+1	AT&T
+1	ACC Digital Network
+1	A Queen Of Magic
+1	98DEMAKE
+1	112VEVO
+1	100isNow
