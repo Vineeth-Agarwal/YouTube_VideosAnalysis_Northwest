@@ -39,7 +39,7 @@ There is no way to know if the data about comments or likes is authenticate beca
 We can work on category based on tags and find the popular channel and trending topics in youtube. We have data for Great Britan and United States thus, we can find the sentiment analysis in a variety of forms, categorising YouTube videos based on their comments and statistics.
 
 ## Big Data Questions
-1) For each category id, find the number of videos uploaded everyday to determine the trending category. (Ashok)
+1) For each category id, find the number of videos uploaded everyday to determine the top 5 trending video categories. (Ashok)
 
 2) For each video, find the number of likes and views it gets to determine the likeliness of a video by taking the ratio of views to likes. Goal is to find relation between number of views and likes(Srikar Karthik).
 
