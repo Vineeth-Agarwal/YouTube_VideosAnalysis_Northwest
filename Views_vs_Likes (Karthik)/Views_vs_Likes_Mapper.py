@@ -14,6 +14,7 @@ for l in reader:
         if v > 0 and l > 0:
             ratio = (l/v)*100
             o.write (str(ratio)+","+ v_id+"++"+title+"++"+str(v)+"++"+str(l)+"\n")
+            # print (str(ratio)+","+ v_id+"++"+title+"++"+str(v)+"++"+str(l)+"\n")            
     else:
         start = False
 i.close()
