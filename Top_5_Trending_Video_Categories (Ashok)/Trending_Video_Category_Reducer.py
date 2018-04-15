@@ -13,7 +13,7 @@ for line in i:
 		if cID == category_id:
 			cCount += 1
 		else:
-			o.write("Category id: "+ cID + "\t"+ str(cCount) +"\n")
+			o.write(str(cCount) + "\t"+ "Category id: "+ cID +"\n")
 			print("Category id: "+ cID + "\t"+ str(cCount) +"\n")
 			cID = category_id			
 			cCount = 1	
