@@ -1,0 +1,30 @@
+378	Category id: 1
+
+1252	Category id: 10
+
+116	Category id: 15
+
+410	Category id: 17
+
+48	Category id: 19
+
+116	Category id: 2
+
+82	Category id: 20
+
+882	Category id: 22
+
+755	Category id: 23
+
+1601	Category id: 24
+
+626	Category id: 25
+
+870	Category id: 26
+
+334	Category id: 27
+
+512	Category id: 28
+
+14	Category id: 29
+
