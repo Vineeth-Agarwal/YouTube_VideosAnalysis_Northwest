@@ -1,28 +1,28 @@
-# YouTube_VideosAnalysis_Northwest
+># YouTube Videos Analysis
 This project is a part of the course 44564-Data Intensive Systems at Northwest for Spring 2018 semester. This is being implemented by the group 2C of that course. This group has 4 develpors in total, which is a collaboration of two teams comprising of 2 members each. 
 
-Teams Members:
+>## Teams Members:
 
 Group 2C-Team 1: Vineeth Agarwal & Durga Charan Potukuru
 
 Group 2C-Team 2: Ashok Atkuri & Raja Srikar Karthik Chinta
 
-## Project Source Links
+>## Project Source Links
 Repository: https://github.com/Vineeth-Agarwal/YouTube_VideosAnalysis_Northwest
 
 Issue Tracker: https://github.com/Vineeth-Agarwal/YouTube_VideosAnalysis_Northwest/issues/1
 
-## Introduction
+>## Introduction
 The dataset includes data gathered from videos on YouTube that are contained within the trending category each day. This would help us make som analysis on the videos, channels, comments, likes vews & more to extract important information.
 
-## Data Source
+>## Data Source
 The data source contains two kinds of data files, one includes comments and the other includes video statistics. They are linked by the unique video_id field. It has category classification in .json and comments and videos list in .csv file formats.
 The size of the data source is 148MB and it contains structured data.
 
-## Data Source Link
+>## Data Source Link
 https://www.kaggle.com/datasnaek/youtube
 
-## Big Data Qualifications
+>## Big Data Qualifications
 ### Volume : 
 This data set contains huge set of comments and likes count and replies for each video in dataset and its size is about 148MB after decompressing the file.
 
@@ -38,7 +38,7 @@ There is no way to know if the data about comments or likes is authenticate beca
 ### Value:
 We can work on category based on tags and find the popular channel and trending topics in youtube. We have data for Great Britan and United States thus, we can find the sentiment analysis in a variety of forms, categorising YouTube videos based on their comments and statistics.
 
-## Big Data Questions
+>## Big Data Questions
 1) Find a relation between the category id and how many videos getting uploaded on that category. The goal is what is the category of highest trending videos. Below is the mapping of category name and mapping to their numeric id. (Ashok)
 
 2) For each video, find the number of likes and views it gets to determine the likeliness of a video by taking the ratio of views to likes. Goal is to find relation between number of views and likes(Srikar Karthik).
@@ -47,7 +47,7 @@ We can work on category based on tags and find the popular channel and trending 
 
 4) For each channel-id tagged with Android, find number of views each video gets, to determine the top 5 trending channels in android. (Vineeth)
 
-## Big Data Solutions
+>## Big Data Solutions
 ## 1) For each category id, find the number of videos uploaded everyday and group them according to categories.  
 ### Data Flow:
 Mapper input: 
@@ -99,7 +99,7 @@ Reducer output:
 jt2OHQh0HoQ ATTACKED BY A POLICE DOG!!, Negative   
 ```
 ### Graph:
-![Graph](Images/Number_likeliness.png)
+![Graph](Images/Views_vs_Likes(Trending%20with%20Views_vs_Likes%20ratio).png)
 
 ## 4) For each channel-id tagged with Android, find number of views each video gets, to determine the top 5 trending channels in android.  
 ### Data Flow:  
@@ -119,8 +119,8 @@ Chargers vs. Broncos
 ![TopANdroidChannels](Images/Top-10-Android-Channels.PNG)  
 
 
-## Language:  
+>## Language:  
 Python 
 
-## chart:
+>## chart:
 Bar charts and scattered plots.
