@@ -1,4 +1,4 @@
-># YouTube Videos Analysis
+# YouTube Videos Analysis
 This project is a part of the course 44564-Data Intensive Systems at Northwest for Spring 2018 semester. This is being implemented by the group 2C of that course. This group has 4 develpors in total, which is a collaboration of two teams comprising of 2 members each. 
 
 >## Teams Members:
