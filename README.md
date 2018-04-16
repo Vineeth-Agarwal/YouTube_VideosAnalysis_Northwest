@@ -99,6 +99,7 @@ Reducer output:
 jt2OHQh0HoQ ATTACKED BY A POLICE DOG!!, Negative   
 ```
 ### Graph:
+![Graph](Images/Views_vs_Likes(Trending%20with%20Views_vs_Likes%20ratio).png)
 
 ## 4) For each channel-id tagged with Android, find number of views each video gets, to determine the top 5 trending channels in android.  
 ### Data Flow:  
