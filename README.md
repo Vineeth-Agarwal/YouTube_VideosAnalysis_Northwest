@@ -105,15 +105,16 @@ jt2OHQh0HoQ ATTACKED BY A POLICE DOG!!, Negative
 ### Data Flow:  
 Mapper input:   
 ```
-EVp4-qjWVJE,	Chargers vs. Broncos, | NFL, Week 1 Game Highlights	NFL	17,	NFL|Football|offense|defense|afc|nfc|American, 743947,	6126,	352,	2438.	https://i.ytimg.com/vi/EVp4-qjWVJE/default.jpg,	13.09  
+XpVt6Z1Gjjo	1 YEAR OF VLOGGING -- HOW LOGAN PAUL CHANGED YOUTUBE FOREVER!	Logan Paul Vlogs	24	logan paul vlog|logan paul|logan|paul|olympics|logan paul youtube|vlog|daily|comedy|hollywood|parrot|maverick|bird|maverick clothes|diamond play button|logan paul diamond play button|10M subscribers|logan paul 1 year vlogging|1 year vlog|dwarf mamba play button|logan paul history|youtube history|10M|10M plaque|youtube button|diamond button|logang|logang 4 life	4394029	320053	5931	46245	https://i.ytimg.com/vi/XpVt6Z1Gjjo/default.jpg	13.09  
 ```    
 Mapper Output/Reducer input:   
 ```
-Chargers vs. Broncos, NFL|Football|offense|defense|afc|nfc|American, 473691  
+416462	"JerryRigEverything"	Essential Phone Drop Test|Essential Phone|Drop test|Essential PH-1|ceramic drop test|Titanium Drop test|Ceramic phone|mobile device|android|andy rubin|pure android|best android phone|iphone 7|iphone 8
+  
 ```
 Reducer output:   
 ```  
-Chargers vs. Broncos   
+416462	"JerryRigEverything"   
 ```  
 ### Graph:
 ![TopANdroidChannels](Images/Top-10-Android-Channels.PNG)  
