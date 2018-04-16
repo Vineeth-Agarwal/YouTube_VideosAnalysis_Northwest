@@ -96,9 +96,15 @@ Reducer output: ``` jt2OHQh0HoQ ATTACKED BY A POLICE DOG!!, Negative ```
 
 ## 4) For each channel-id tagged with Android, find number of views each video gets, to determine the top 5 trending channels in android.  
 ### Data Flow:  
-Mapper input: ``` EVp4-qjWVJE,	Chargers vs. Broncos, | NFL, Week 1 Game Highlights	NFL	17,	NFL|Football|offense|defense|afc|nfc|American, 743947,	6126,	352,	2438.	https://i.ytimg.com/vi/EVp4-qjWVJE/default.jpg,	13.09    ```
-Mapper Output/Reducer input: ``` Chargers vs. Broncos, NFL|Football|offense|defense|afc|nfc|American, 473691    ```
-Reducer output: ``` Chargers vs. Broncos    ```
+Mapper input:   
+``` EVp4-qjWVJE,	Chargers vs. Broncos, | NFL, Week 1 Game Highlights	NFL	17,	NFL|Football|offense|defense|afc|nfc|American, 743947,	6126,	352,	2438.	https://i.ytimg.com/vi/EVp4-qjWVJE/default.jpg,	13.09  
+```
+Mapper Output/Reducer input:  
+``` Chargers vs. Broncos, NFL|Football|offense|defense|afc|nfc|American, 473691  
+```
+Reducer output:  
+``` Chargers vs. Broncos  
+```
 ### Graph:
 ![TopANdroidChannels](Images/Top-10-Android-Channels.PNG)  
 
