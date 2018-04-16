@@ -90,11 +90,13 @@ Mapper input:
 1)XpVt6Z1Gjjo	#1 trending!!!!!!!!!	3	0   
 2)QBGaO89cBMI	Radiohead - Lift	Radiohead	10	radiohead|lift|ok computer|oknotok	752844	42290	359	3250	https://i.ytimg.com/vi/QBGaO89cBMI/default.jpg	13.09  
 ```
-Mapper Output/Reducer input:  
-``` XpVt6Z1Gjjo,	1 on trending good job  
+Mapper Output/Reducer input:   
 ```
-Reducer output:  
-``` jt2OHQh0HoQ ATTACKED BY A POLICE DOG!!, Negative  
+XpVt6Z1Gjjo,	1 on trending good job   
+```
+Reducer output:   
+```
+jt2OHQh0HoQ ATTACKED BY A POLICE DOG!!, Negative   
 ```
 ### Graph:
 
