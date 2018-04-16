@@ -39,7 +39,7 @@ There is no way to know if the data about comments or likes is authenticate beca
 We can work on category based on tags and find the popular channel and trending topics in youtube. We have data for Great Britan and United States thus, we can find the sentiment analysis in a variety of forms, categorising YouTube videos based on their comments and statistics.
 
 ## Big Data Questions
-1) For each category id, find the number of videos uploaded everyday to determine the top 5 trending video categories. (Ashok)
+1) Find a relation between the category id and how many videos getting uploaded on that category. The goal is what is the category of highest trending videos. Below is the mapping of category name and mapping to their numeric id. (Ashok)
 
 2) For each video, find the number of likes and views it gets to determine the likeliness of a video by taking the ratio of views to likes. Goal is to find relation between number of views and likes(Srikar Karthik).
 
@@ -48,13 +48,13 @@ We can work on category based on tags and find the popular channel and trending 
 4) For each channel-id tagged with Android, find number of views each video gets, to determine the top 5 trending channels in android. (Vineeth)
 
 ## Big Data Solutions
-## 1) For each category id, find the number of videos uploaded everyday to determine the top 5 trending video categories.  
+## 1) For each category id, find the number of videos uploaded everyday and group them according to categories.  
 ### Data Flow:
-Mapper input: EVp4-qjWVJE,	Chargers vs. Broncos, | NFL, Week 1 Game Highlights	NFL	17,	NFL|Football|offense|defense|afc|nfc|American, 743947,	6126,	352,	2438.	https://i.ytimg.com/vi/EVp4-qjWVJE/default.jpg,	13.09
-Mapper Output/Reducer input: Entertainment, 09/13/2018
-Reducer output: Entertainment 38 09/13/2018
+Mapper input: XpVt6Z1Gjjo,"1 YEAR OF VLOGGING -- HOW LOGAN PAUL CHANGED YOUTUBE FOREVER!","Logan Paul Vlogs",24,logan paul vlog|logan paul|logan|paul|olympics|logan paul youtube|vlog|daily|comedy|hollywood|parrot|maverick|bird|maverick clothes|diamond play button|logan paul diamond play button|10M subscribers|logan paul 1 year vlogging|1 year vlog|dwarf mamba play button|logan paul history|youtube history|10M|10M plaque|youtube button|diamond button|logang|logang 4 life,4394029,320053,5931,46245,https://i.ytimg.com/vi/XpVt6Z1Gjjo/default.jpg,13.09
+Mapper Output/Reducer input: 1 
+Reducer output: Entertainment 38
 ### Graph:
-
+![Graph](Images/Video_Categories_by_their_count.png)
 ## 2) For each video, find the number of likes and views it gets to determine the likeliness of a video by taking the ratio of views to likes.   
 ### Data Flow:
 #### Mapper input: 
