@@ -60,7 +60,7 @@ Mapper Output/Reducer input:
 ``` 
 Reducer output: 
 ```
-Entertainment 38
+Entertainment 1601
 ```
 ### Graph:
 ![Graph](/Images/Video__Categories_by_their_count.png)
