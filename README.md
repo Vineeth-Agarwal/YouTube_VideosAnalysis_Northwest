@@ -50,11 +50,20 @@ We can work on category based on tags and find the popular channel and trending 
 ## Big Data Solutions
 ## 1) For each category id, find the number of videos uploaded everyday and group them according to categories.  
 ### Data Flow:
-Mapper input: XpVt6Z1Gjjo,"1 YEAR OF VLOGGING -- HOW LOGAN PAUL CHANGED YOUTUBE FOREVER!","Logan Paul Vlogs",24,logan paul vlog|logan paul|logan|paul|olympics|logan paul youtube|vlog|daily|comedy|hollywood|parrot|maverick|bird|maverick clothes|diamond play button|logan paul diamond play button|10M subscribers|logan paul 1 year vlogging|1 year vlog|dwarf mamba play button|logan paul history|youtube history|10M|10M plaque|youtube button|diamond button|logang|logang 4 life,4394029,320053,5931,46245,https://i.ytimg.com/vi/XpVt6Z1Gjjo/default.jpg,13.09
-Mapper Output/Reducer input: 1 
-Reducer output: Entertainment 38
+Mapper input: 
+```
+XpVt6Z1Gjjo,"1 YEAR OF VLOGGING -- HOW LOGAN PAUL CHANGED YOUTUBE FOREVER!","Logan Paul Vlogs",24,logan paul vlog|logan paul|logan|paul|olympics|logan paul youtube|vlog|daily|comedy|hollywood|parrot|maverick|bird|maverick clothes|diamond play button|logan paul diamond play button|10M subscribers|logan paul 1 year vlogging|1 year vlog|dwarf mamba play button|logan paul history|youtube history|10M|10M plaque|youtube button|diamond button|logang|logang 4 life,4394029,320053,5931,46245,https://i.ytimg.com/vi/XpVt6Z1Gjjo/default.jpg,13.09
+```
+Mapper Output/Reducer input:
+```
+1
+``` 
+Reducer output: Entertainment 
+```
+38
+```
 ### Graph:
-![Graph](Images/Video_Categories_by_their_count.png)
+![Graph](/Images/Video__Categories_by_their_count.png)
 ## 2) For each video, find the number of likes and views it gets to determine the likeliness of a video by taking the ratio of views to likes.   
 ### Data Flow:
 #### Mapper input: 
